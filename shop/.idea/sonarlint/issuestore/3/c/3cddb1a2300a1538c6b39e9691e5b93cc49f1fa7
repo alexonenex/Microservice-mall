@@ -1,0 +1,29 @@
+
+J
+java:S3740>"/Provide the parametrized type for this generic.(ëÚÿÓþÿÿÿÿ
+o
+java:S2293u"YReplace the type specification in this constructor call with the diamond operator ("<>").(â×°þ
+p
+java:S2293ž"YReplace the type specification in this constructor call with the diamond operator ("<>").(â×°þ
+a
+java:S1192b"FDefine a constant instead of duplicating this literal "UTF-8" 3 times.(ûÂ•¡øÿÿÿÿ
+c
+java:S1192D"MDefine a constant instead of duplicating this literal "out_trade_no" 3 times.(©“ÙÊ
+b
+java:S1192h"LDefine a constant instead of duplicating this literal "return_code" 3 times.(¯˜’»
+Q	java:S125="<This block of commented-out lines of code should be removed.(ÀÇ–’
+T
+java:S4719b"9Replace charset name argument with StandardCharsets.UTF_8(ûÂ•¡øÿÿÿÿ
+S	java:S106d"9Replace this use of System.out or System.err by a logger.(â·Öàüÿÿÿÿ
+U
+java:S4719“"9Replace charset name argument with StandardCharsets.UTF_8(ûÂ•¡øÿÿÿÿ
+T	java:S106•"9Replace this use of System.out or System.err by a logger.(ÌŒ’¿ùÿÿÿÿ
+N	java:S106›"9Replace this use of System.out or System.err by a logger.(ÔÝò]
+O
+java:S4719›"9Replace charset name argument with StandardCharsets.UTF_8(ÔÝò]
+a
+java:S1128"KRemove this unused import 'com.baomidou.mybatisplus.core.toolkit.IdWorker'.(äÙ„ù
+M
+java:S1128"7Remove this unused import 'com.github.wxpay.sdk.WXPay'.(»úþÌ
+T
+java:S1128"9Remove this unused import 'java.io.ByteArrayInputStream'.(Ëôæ±ûÿÿÿÿ

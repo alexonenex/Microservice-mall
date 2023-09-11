@@ -1,0 +1,17 @@
+
+\
+java:S11922"FDefine a constant instead of duplicating this literal "UTF-8" 4 times.(®Ïþ»
+O
+java:S47192"9Replace charset name argument with StandardCharsets.UTF_8(®Ïþ»
+S	java:S1064"9Replace this use of System.out or System.err by a logger.(«³ã¼ÿÿÿÿÿ
+T
+java:S47194"9Replace charset name argument with StandardCharsets.UTF_8(«³ã¼ÿÿÿÿÿ
+N	java:S1065"9Replace this use of System.out or System.err by a logger.(Ýá¹¹
+T
+java:S47197"9Replace charset name argument with StandardCharsets.UTF_8(ÏæÔäÿÿÿÿÿ
+N	java:S1069"9Replace this use of System.out or System.err by a logger.(Ð¯¯¥
+O
+java:S47199"9Replace charset name argument with StandardCharsets.UTF_8(Ð¯¯¥
+S	java:S106:"9Replace this use of System.out or System.err by a logger.(Å­ËÝúÿÿÿÿ
+W
+java:S1128"ARemove this unused import 'java.io.UnsupportedEncodingException'.(Ãµ…“

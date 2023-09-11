@@ -1,0 +1,13 @@
+
+u
+java:S1488F"_Immediately return this expression instead of assigning it to the temporary variable "certBis".(´‡õß
+
+java:S1488Q"dImmediately return this expression instead of assigning it to the temporary variable "iwxPayDomain".(ÎÿƒÎþÿÿÿÿ
+c
+java:S2095<"MUse try-with-resources or close this "FileInputStream" in a "finally" clause.(‘æü²
+O
+java:S21688"9Remove this dangerous instance of double-checked locking.(ñÔßø
+e
+java:S2674>"JCheck the return value of the "read" call to see how many bytes were read.(ƒêÇÎÿÿÿÿÿ
+œ
+java:S1186S"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(í³ñœûÿÿÿÿ

@@ -1,0 +1,17 @@
+
+E
+java:S3740"/Provide the parametrized type for this generic.(‚Ê«
+o
+java:S2293C"YReplace the type specification in this constructor call with the diamond operator ("<>").(²Ê¡†
+s	java:S135;"YReduce the total number of break and continue statements in this loop to use at most one.(¬Ç›¯üÿÿÿÿ
+w
+java:S1488Z"aImmediately return this expression instead of assigning it to the temporary variable "resultMap".(…Ø×
+b
+java:S2259k"GA "NullPointerException" could be thrown; "routerUri" is nullable here.(ÜÔœîúÿÿÿÿ
+b
+java:S22594"GA "NullPointerException" could be thrown; "routerUri" is nullable here.(ÜÔœîúÿÿÿÿ
+C	java:S108p")Either remove or fill this block of code.(Èö¡Œûÿÿÿÿ
+\
+java:S1126v"AReplace this if-then-else statement by a single return statement.(ëŞöØùÿÿÿÿ
+;
+java:S1168¤"$Return an empty map instead of null.(¥¹ï

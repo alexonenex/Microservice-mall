@@ -1,0 +1,22 @@
+server:
+  port: 8084
+spring:
+  application:
+    name: mall-search
+  cloud:
+    nacos:
+      server-addr: localhost:8888
+#      config:
+#        file-extension: yaml
+#        server-addr: localhost:8888
+      discovery:
+        #Nacos的注册地址
+#        server-addr: localhost:8888
+  #Elasticsearch服务配置 6.8.12
+  elasticsearch:
+    rest:
+      uris: localhost:9200
+#日志配置
+logging:
+  pattern:
+    console: "%msg%n"

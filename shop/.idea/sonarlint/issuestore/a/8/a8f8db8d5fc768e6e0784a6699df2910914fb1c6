@@ -1,0 +1,24 @@
+
+t
+java:S2293L"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÿæ¸”ûÿÿÿÿ
+U	java:S899A";Do something with the "boolean" value returned by "delete".(²Œ­ûÿÿÿÿ
+i
+java:S4042A"NUse "java.nio.file.Files#delete" here for better messages on error conditions.(²Œ­ûÿÿÿÿ
+:
+java:S1168Q"$Return an empty map instead of null.(¥¹ï
+K
+java:S1128"6Remove this unused import 'com.alibaba.fastjson.JSON'.(Ö¢å$
+b
+java:S1128"GRemove this unused import 'com.gupaoedu.vip.mall.goods.model.Category'.(ÆœéÅúÿÿÿÿ
+\
+java:S1128"FRemove this unused import 'com.gupaoedu.vip.mall.goods.model.Product'.(¸ “Ó
+]
+java:S1128"BRemove this unused import 'com.gupaoedu.vip.mall.goods.model.Sku'.(ÔÀÄÛıÿÿÿÿ
+X
+java:S1128"BRemove this unused import 'com.gupaoedu.vip.mall.goods.model.Spu'.(­«µ°
+`
+java:S1128	"KRemove this unused import 'com.gupaoedu.vip.mall.page.service.PageService'.(ˆ×„B
+F
+java:S1128"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ
+F
+java:S1128"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ

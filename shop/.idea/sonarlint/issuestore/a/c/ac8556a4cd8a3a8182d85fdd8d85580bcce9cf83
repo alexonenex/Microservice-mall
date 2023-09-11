@@ -1,0 +1,24 @@
+
+`	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(®ı–ßûÿÿÿÿ
+a
+java:S1192"FDefine a constant instead of duplicating this literal "UTF-8" 5 times.(ƒàåüÿÿÿÿ
+T
+java:S4719"9Replace charset name argument with StandardCharsets.UTF_8(ƒàåüÿÿÿÿ
+9
+java:S5542"#Use secure mode and padding scheme.( èÄ
+c	java:S100("NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¹ö½
+A
+java:S1172("+Remove this unused method parameter "args".(¹ö½
+O
+java:S4719."9Replace charset name argument with StandardCharsets.UTF_8(øäŒ±
+N	java:S1060"9Replace this use of System.out or System.err by a logger.(İá¹¹
+S	java:S1064"9Replace this use of System.out or System.err by a logger.(«³ã¼ÿÿÿÿÿ
+T
+java:S47194"9Replace charset name argument with StandardCharsets.UTF_8(«³ã¼ÿÿÿÿÿ
+M	java:S106@"9Replace this use of System.out or System.err by a logger.(„Ó.
+O
+java:S4719D"9Replace charset name argument with StandardCharsets.UTF_8(øäŒ±
+N	java:S106F"9Replace this use of System.out or System.err by a logger.(İá¹¹
+S	java:S106J"9Replace this use of System.out or System.err by a logger.(«³ã¼ÿÿÿÿÿ
+T
+java:S4719J"9Replace charset name argument with StandardCharsets.UTF_8(«³ã¼ÿÿÿÿÿ

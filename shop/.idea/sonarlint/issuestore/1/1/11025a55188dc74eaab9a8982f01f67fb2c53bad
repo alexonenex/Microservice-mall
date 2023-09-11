@@ -1,0 +1,19 @@
+
+`	java:S112-"FDefine and throw a dedicated exception instead of using a generic one.(èÁæ·ùÿÿÿÿ
+o
+java:S2293="YReplace the type specification in this constructor call with the diamond operator ("<>").(ÝÂÿ‘
+o
+java:S2293Z"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÝÂÿ‘
+—
+java:S1186N"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ÃÂéÚ
+w
+java:S4144X"\Update this method so that its implementation is not identical to "typeSkuItems" on line 59.(è…ôüúÿÿÿÿ
+N	java:S106+"9Replace this use of System.out or System.err by a logger.(¡¨Õž
+T
+java:S1612B">Replace this lambda with method reference 'AdItems::getSkuId'.(ÂÏ‰½
+T
+java:S1155C">Use isEmpty() to check whether the collection is empty or not.(„æÉÖ
+T
+java:S1612_">Replace this lambda with method reference 'AdItems::getSkuId'.(ÂÏ‰½
+T
+java:S1155`">Use isEmpty() to check whether the collection is empty or not.(„æÉÖ

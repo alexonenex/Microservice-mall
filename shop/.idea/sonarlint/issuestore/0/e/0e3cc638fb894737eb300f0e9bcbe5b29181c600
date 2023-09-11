@@ -1,0 +1,114 @@
+
+_
+java:S1192‹"HDefine a constant instead of duplicating this literal "integer" 4 times.(ÿŞÃ¯
+a
+java:S11922"KDefine a constant instead of duplicating this literal "pagesearch" 3 times.(¯ĞÄ
+]
+java:S1192¡"FDefine a constant instead of duplicating this literal "int64" 3 times.(öåé
+i
+java:S1192í"RDefine a constant instead of duplicating this literal "application/json" 12 times.(¹¶Î
+f
+java:S1192¿"ODefine a constant instead of duplicating this literal "æ ¹æ®IDä¿®æ”¹" 6 times.(‚× à
+d
+java:S11920"IDefine a constant instead of duplicating this literal "respbean" 4 times.(Ú­¦úûÿÿÿÿ
+_
+java:S11925"IDefine a constant instead of duplicating this literal "filename" 4 times.(ëöãî
+e
+java:S1192ö"IDefine a constant instead of duplicating this literal "Â«ListÂ«" 4 times.(ÌÉÅ‰ùÿÿÿÿ
+b
+java:S11921"GDefine a constant instead of duplicating this literal "search" 3 times.(ªîğøÿÿÿÿ
+f
+java:S1192±"ODefine a constant instead of duplicating this literal "æ ¹æ®IDåˆ é™¤" 4 times.(ÊéÃÁ
+l
+java:S1192ö"PDefine a constant instead of duplicating this literal "#/definitions/" 11 times.(ÌÉÅ‰ùÿÿÿÿ
+b
+java:S1192è"KDefine a constant instead of duplicating this literal "Controller" 6 times.(Õ‰‚‡
+f	java:S117_"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¤ÜåÎ
+g	java:S117»"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÿ…Ö®
+g	java:S117è"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(îË“
+g	java:S117ƒ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ªèûì
+g	java:S117ª"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(³Ùùš
+l	java:S117à"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Œ•™şÿÿÿÿÿ
+g	java:S117‡"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ö¶·Ò
+g	java:S117²"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÍµçÉ
+l	java:S117Ñ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÿ»›Ãûÿÿÿÿ
+l	java:S117ä"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(úƒè°ûÿÿÿÿ
+l	java:S117ù"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŞÔ„ÿÿÿÿÿ
+g	java:S117Š"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¹¹ó
+g	java:S117›"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ªõÓÒ
+l	java:S117ª"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ßº¾Šüÿÿÿÿ
+f	java:S117¼"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(àİÓ
+l	java:S117Î"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(”ÛòÜûÿÿÿÿ
+l
+java:S1104"QMake UNAME a static final constant or non-public and provide accessors if needed.(¸–¬—şÿÿÿÿ
+n
+java:S1104"XMake PROJECT_PATH a static final constant or non-public and provide accessors if needed.(Öù§ø
+i
+java:S1104"SMake SWAGGER a static final constant or non-public and provide accessors if needed.(®”ì–
+j
+java:S1104"TMake FILENAME a static final constant or non-public and provide accessors if needed.(ƒ¿Ã×
+u
+java:S1104"ZMake SWAGGERUI_PATH a static final constant or non-public and provide accessors if needed.(…³”°üÿÿÿÿ
+p
+java:S1104"UMake RESP_BEAN a static final constant or non-public and provide accessors if needed.(– Ôûøÿÿÿÿ
+u
+java:S1104""ZMake MAPPING_SEARCH a static final constant or non-public and provide accessors if needed.(ò×Ğ»úÿÿÿÿ
+t
+java:S1104#"^Make MAPPING_PAGESEARCH a static final constant or non-public and provide accessors if needed.(ŒÓ¨
+F
+java:S1444"+Make this "public static UNAME" field final(¸–¬—şÿÿÿÿ
+H
+java:S1444"2Make this "public static PROJECT_PATH" field final(Öù§ø
+C
+java:S1444"-Make this "public static SWAGGER" field final(®”ì–
+D
+java:S1444".Make this "public static FILENAME" field final(ƒ¿Ã×
+O
+java:S1444"4Make this "public static SWAGGERUI_PATH" field final(…³”°üÿÿÿÿ
+J
+java:S1444"/Make this "public static RESP_BEAN" field final(– Ôûøÿÿÿÿ
+O
+java:S1444""4Make this "public static MAPPING_SEARCH" field final(ò×Ğ»úÿÿÿÿ
+N
+java:S1444#"8Make this "public static MAPPING_PAGESEARCH" field final(ŒÓ¨
+c
+java:S2095F"HUse try-with-resources or close this "Connection" in a "finally" clause.(ŠÆ¹˜ıÿÿÿÿ
+k
+java:S3008"PRename this field "UNAME" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¸–¬—şÿÿÿÿ
+m
+java:S3008"WRename this field "PROJECT_PATH" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Öù§ø
+h
+java:S3008"RRename this field "SWAGGER" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(®”ì–
+i
+java:S3008"SRename this field "FILENAME" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ƒ¿Ã×
+t
+java:S3008"YRename this field "SWAGGERUI_PATH" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(…³”°üÿÿÿÿ
+o
+java:S3008"TRename this field "RESP_BEAN" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(– Ôûøÿÿÿÿ
+t
+java:S3008""YRename this field "MAPPING_SEARCH" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ò×Ğ»úÿÿÿÿ
+s
+java:S3008#"]Rename this field "MAPPING_PAGESEARCH" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŒÓ¨
+U
+java:S1118
+":Add a private constructor to hide the implicit public one.(Šœ×Ïùÿÿÿÿ
+h
+java:S3776C"RRefactor this method to reduce its Cognitive Complexity from 22 to the 15 allowed.(à’³‘
+P
+java:S1854b":Remove this useless assignment to local variable "models".(Œğİí
+@
+java:S1659j"%Declare "keyType" on a separate line.(©Ç…êûÿÿÿÿ
+A
+java:S1481b"+Remove this unused "models" local variable.(Œğİí
+C
+java:S1172è",Remove this unused method parameter "table".(îË“
+C
+java:S1172ƒ",Remove this unused method parameter "table".(ªèûì
+C
+java:S1172ª",Remove this unused method parameter "table".(³Ùùš
+H
+java:S1172à",Remove this unused method parameter "table".(Œ•™şÿÿÿÿÿ
+W	java:S125æ"<This block of commented-out lines of code should be removed.(áØÊşÿÿÿÿ
+W	java:S125ë"<This block of commented-out lines of code should be removed.(¹ı×·øÿÿÿÿ
+H
+java:S1172Î",Remove this unused method parameter "Table".(”ÛòÜûÿÿÿÿ

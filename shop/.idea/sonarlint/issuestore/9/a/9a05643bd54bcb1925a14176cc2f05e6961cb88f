@@ -1,0 +1,21 @@
+
+E
+java:S3740"/Provide the parametrized type for this generic.(‚Ê«
+o
+java:S2293@"YReplace the type specification in this constructor call with the diamond operator ("<>").(­¹Ö¼
+o
+java:S2293X"YReplace the type specification in this constructor call with the diamond operator ("<>").(×¿˜Ä
+t
+java:S2293Y"YReplace the type specification in this constructor call with the diamond operator ("<>").(º°Èÿÿÿÿÿ
+m
+java:S3776;"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(ß¦©Ëıÿÿÿÿ
+^
+java:S2175E"HA "Map<Integer, Integer>" cannot contain a "String" in a "Integer" type.(Æ†ó
+c
+java:S2175G"HA "Map<Integer, Integer>" cannot contain a "String" in a "Integer" type.(ïáÍõÿÿÿÿÿ
+V	java:S125N"<This block of commented-out lines of code should be removed.(¨Ã¾¬şÿÿÿÿ
+S
+java:S1155l">Use isEmpty() to check whether the collection is empty or not.(ˆ§
+
+Y
+java:S1155o">Use isEmpty() to check whether the collection is empty or not.(Ş‹‚úÿÿÿÿ
